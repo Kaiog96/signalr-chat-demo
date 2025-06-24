@@ -1,0 +1,20 @@
+.app-container {
+    max-width: 600px;
+    margin: 40px auto;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .app-title {
+    margin-bottom: 0;
+  }
+  
+  .app-subtitle {
+    color: #666;
+    margin-top: 4px;
+  }
+  

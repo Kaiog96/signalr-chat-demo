@@ -1,0 +1,19 @@
+.chat-messages-container {
+    margin-top: 20px;
+    max-height: 300px;
+    overflow-y: auto;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    scrollbar-width: thin;
+    scrollbar-color: #ccc transparent;
+  }
+  
+  .chat-message-item {
+    margin-bottom: 8px;
+    padding: 6px 10px;
+    background-color: #e9ecef;
+    border-radius: 6px;
+    word-break: break-word;
+  }
